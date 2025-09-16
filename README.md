@@ -411,6 +411,37 @@ Supports strategic planning and predictive insights for sustained growth.
 
 ---
 
+### 🔗 Data Source & Integration
+The dataset was originally sourced from **Kaggle**.  
+To automate the process, a small **Python script** was written to fetch the dataset from Kaggle using the Kaggle API and save it into a local folder.  
+Power BI was then connected to this folder, ensuring that any new data fetched by the Python script could be seamlessly updated in the dashboard.
+
+This integration provided:
+- **Automation:** Eliminated manual downloading of files  
+- **Reproducibility:** Same script can fetch updated data anytime  
+- **Scalability:** Easy to extend for multiple datasets  
+```
+# data_fetch.py
+# Script to fetch Flipkart dataset from Kaggle and save locally
+
+import os
+from kaggle.api.kaggle_api_extended import KaggleApi
+
+# Authenticate with Kaggle
+api = KaggleApi()
+api.authenticate()
+
+# Create local data folder
+data_path = "data"
+os.makedirs(data_path, exist_ok=True)
+
+# Download dataset (replace with actual dataset id)
+api.dataset_download_files("username/flipkart-dataset", path=data_path, unzip=True)
+
+print("✅ Dataset downloaded successfully into 'data/' folder")
+```
+---
+
 ## 👨‍💻 Dashboard Design Philosophy
 - **User-Centric Design:** Tailored to stakeholder needs  
 - **Data Accuracy:** Single source of truth  
