@@ -6,9 +6,6 @@ This project involves the design and development of a comprehensive **Flipkart E
 ---
 
 ## 📈 Dashboard Overview
-
-## 📈 Dashboard Details
-
 ### 1️⃣ Product Insights Dashboard
 The Product Insights Dashboard provides a **comprehensive analysis of Flipkart’s product portfolio**, tracking performance across categories, subcategories, and sales channels. It is designed to enable Flipkart’s **category managers and inventory planners** to make strategic decisions regarding stock allocation, promotions, and category expansion.
 
