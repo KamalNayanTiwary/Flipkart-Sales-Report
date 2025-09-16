@@ -165,7 +165,6 @@ This dashboard provides a **holistic view of customer orders, delivery performan
 The Customer Insights Dashboard provides **centralized visibility into Flipkart’s customer base**, allowing the marketing, sales, and operations teams to better understand **customer demographics, purchasing behavior, and engagement patterns**. It addresses challenges around targeting, retention, and personalized marketing.
 
 ---
-
 #### 🔍 Problem 1: Lack of Customer Demographic Visibility
 **Before:** Marketing and product teams lacked insights into customer age groups, gender distribution, and geographic location. This led to **inefficient targeting and low engagement rates**.
 
@@ -217,6 +216,36 @@ The Customer Insights Dashboard provides **centralized visibility into Flipkart�
 - Supports **customer retention, loyalty programs, and engagement tracking**  
 - Provides a foundation for **predictive analytics on future customer behavior**
 
+---
+
+# 📄 Flipkart Sales Performance Report in PDF
+
+Flipkart is one of India’s leading e-commerce platforms, connecting millions of customers 
+with products across diverse categories. With rapid growth, high customer adoption, and 
+increasing competition, it becomes essential to **track, analyze, and visualize sales performance** 
+for better decision-making.
+
+This **Flipkart Business Intelligence Dashboard** was built to:  
+- Monitor overall **Orders, Revenue, Profit, and Customer Engagement**  
+- Track **Category-wise and Subcategory-wise sales performance**  
+- Analyze **Customer demographics (Age, Gender, Purchase Behavior)**  
+- Compare **Weekday vs Weekend sales trends**  
+- Measure **Year-on-Year growth trends** in sales, revenue, and profit  
+- Identify **High-value and repeat customers** driving a large share of revenue  
+
+### 🔑 Why Analyze Flipkart Sales Data?  
+- **Revenue & Profit Insights** → Identify top-performing categories and low-growth segments  
+- **Customer Understanding** → Discover core customer segments and purchase behavior  
+- **Operational Efficiency** → Optimize inventory, delivery, and logistics planning  
+- **Pricing & Promotions** → Measure impact of discounts, campaigns, and seasonal changes  
+- **Trend Detection** → Track seasonal, weekday/weekend, and yearly sales trends  
+- **Strategic Planning** → Support leadership in marketing, category expansion, and customer engagement  
+
+📊 By consolidating these insights into **interactive Power BI dashboards**, Flipkart stakeholders 
+can make **data-driven decisions** to optimize operations, enhance customer experiences, 
+and drive sustainable business growth.
+
+➡️ **[Read Full Dashboard Report Here]()**
 ---
 
 ## 🛠️ Technical Implementation
