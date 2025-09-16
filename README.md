@@ -245,7 +245,7 @@ This **Flipkart Business Intelligence Dashboard** was built to:
 can make **data-driven decisions** to optimize operations, enhance customer experiences, 
 and drive sustainable business growth.
 
-➡️ **[Read Full Dashboard Report Here]()**
+➡️ **[Read Full Dashboard Report Here](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report-Dashboard----Python-Excel-Power-BI-DAX/blob/main/Flipkart%20Sales%20Report.pdf)**
 ---
 
 ## 🛠️ Technical Implementation
