@@ -161,24 +161,61 @@ The Main Dashboard acts as a **centralized control center**, consolidating key m
 ---
 
 ### 5️⃣ Customer Insights Dashboard
-![Customer Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Customer%20Insights.png)  
-The Enhanced Product Insights Dashboard provides **more granular insights**, allowing detailed analysis for **strategic decision-making and category management**.
+![Customer Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Customer%20Insights.png) 
+The Customer Insights Dashboard provides **centralized visibility into Flipkart’s customer base**, allowing the marketing, sales, and operations teams to better understand **customer demographics, purchasing behavior, and engagement patterns**. It addresses challenges around targeting, retention, and personalized marketing.
 
-**Enhanced Metrics:**
-- **Products Sold by Year (2015–2021):** Peak in 2015, stable sales afterward  
-- **Status-wise Breakdown:** Delivered vs Returned orders, with year-on-year comparison  
-- **Expanded Revenue Analysis:** Subcategory-level performance with historical trend charts  
+---
 
-**Additional Components & Insights:**
-- **Longitudinal Analysis:** Reveals growth patterns of categories, highlighting **top sellers and declining products**  
-- **Return Rate Trends:** Shows which subcategories have higher return ratios, informing **quality control and customer service initiatives**  
-- **Subcategory Revenue Comparisons:** Bar charts and trend lines highlight emerging opportunities for **promotional campaigns**  
+#### 🔍 Problem 1: Lack of Customer Demographic Visibility
+**Before:** Marketing and product teams lacked insights into customer age groups, gender distribution, and geographic location. This led to **inefficient targeting and low engagement rates**.
+
+**Solution Provided by the Dashboard:**
+- **Customer Segmentation:** Age group (Adults, Youth, Senior) and gender (Male/Female) breakdowns for targeted campaigns.  
+- **Geographic Distribution:** Regional analysis, e.g., Greater Accra with 24K customers, enables **localized marketing and promotions**.  
+- **Customer Rating Analysis:** Helps identify satisfaction patterns across demographics.
+
+**Impact:**
+- Improved **targeted marketing efficiency**  
+- Enabled **personalized campaigns for high-value segments**  
+- Reduced **customer churn and enhanced engagement**
+
+---
+
+#### 🔍 Problem 2: Poor Understanding of Customer Purchase Behavior
+**Before:** Teams lacked insights into customer purchasing patterns, including order frequency, peak purchase times, and preferred product categories, resulting in **suboptimal promotions and missed revenue opportunities**.
+
+**Solution Provided by the Dashboard:**
+- **Order Frequency & Volume Analysis:** Total orders tracked across customer segments to identify high-value and repeat customers.  
+- **Weekday vs Weekend Trends:** Reveals peak shopping periods to optimize promotions and inventory planning.  
+- **Category Preference by Segment:** Highlights which products are popular among Adults, Youth, and Seniors.
+
+**Impact:**
+- Enables **data-driven campaign scheduling**  
+- Guides **inventory planning to meet segment-specific demand**  
+- Supports **cross-selling and upselling strategies**
+
+---
+
+#### 🔍 Problem 3: Limited Visibility on Returns and Customer Satisfaction
+**Before:** Return rates and customer dissatisfaction drivers were not clearly linked to specific customer segments, affecting **service improvement initiatives**.
+
+**Solution Provided by the Dashboard:**
+- **Order Status Tracking:** Delivered vs Returned orders segmented by customer type.  
+- **Return Rate Analysis by Demographics:** Identifies age or region-specific issues to inform **quality control and customer service improvements**.  
+- **Customer Feedback Insights:** Ratings and reviews provide actionable insights for improving **product and service experience**.
+
+**Impact:**
+- Reduced **return rates and associated losses**  
+- Improved **customer satisfaction and loyalty**  
+- Provided actionable insights for **service quality enhancements**
+
+---
 
 **💡 Business Value:**
-- Enables **long-term product lifecycle and category performance analysis**  
-- Helps **strategically focus marketing and inventory efforts**  
-- Provides actionable insights to **boost revenue in high-value categories**  
-- Supports **predictive planning** for seasonal and emerging products  
+- Centralizes customer data for **strategic decision-making**  
+- Enables **personalized marketing campaigns** based on demographics and purchase behavior  
+- Supports **customer retention, loyalty programs, and engagement tracking**  
+- Provides a foundation for **predictive analytics on future customer behavior**
 
 ---
 
