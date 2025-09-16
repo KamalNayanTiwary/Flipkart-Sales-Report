@@ -66,8 +66,8 @@ The Product Insights Dashboard provides a **comprehensive analysis of Flipkart�
   *Insight:* Weekend sales dominate, indicating **strong consumer preference for weekend shopping**. Inventory, promotions, and marketing campaigns can be tailored to this insight.  
 
 - **Subcategory Revenue Analysis:**  
-  - Top Performers: Wellness & Dietary Supplements ($18,648.6K), Men's Fashion ($14,896.66K)  
-  - Strong Performers: Medical Supplies ($15,132.83K), Women's Fashion ($11,409.24K)  
+  - Top Performers: Wellness & Dietary Supplements (₹18,648.6K), Men's Fashion (₹14,896.66K)  
+  - Strong Performers: Medical Supplies (₹15,132.83K), Women's Fashion (₹11,409.24K)  
   - Mid-tier & Emerging Categories: Beauty & Personal Care, Mobile Phones, Tablets, Fragrances, Boys' Fashion  
   *Insight:* High-performing products are prioritized for **marketing and inventory allocation**, while emerging categories are flagged for **growth opportunities**.  
 
@@ -94,7 +94,7 @@ This dashboard delivers **deep financial insights**, tracking profitability over
 **Key Metrics:**
 - **Actual Profit, Incremental Profit, Discount Profit (2016–2020)**  
 - **New Profit vs Actual Profit (2015–2020)**  
-- **Revenue Trends:** $0.2M peak observed Aug 2020 – Jan 2021  
+- **Revenue Trends:** ₹0.2M peak observed Aug 2020 – Jan 2021  
 
 **Components & Insights:**
 - **Profit Analysis:**  
