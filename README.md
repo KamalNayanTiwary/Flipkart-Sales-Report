@@ -94,7 +94,7 @@ This dashboard delivers **deep financial insights**, tracking profitability over
 **Key Metrics:**
 - **Actual Profit, Incremental Profit, Discount Profit (2016–2020)**  
 - **New Profit vs Actual Profit (2015–2020)**  
-- **Revenue Trends:** ₹0.2M peak observed Aug 2020 – Jan 2021  
+- **Revenue Trends:** ₹0.2M peak observed Aug 2020   
 
 **Components & Insights:**
 - **Profit Analysis:**  
