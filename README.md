@@ -22,7 +22,7 @@ The dashboard ultimately empowers Flipkart to **make data-driven decisions acros
 
 You can view the **Flipkart Sales Report Dashboard** 
 
-🔗 You can explore it **Live** here: [View Dashboard]()
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTkwOWE1OWYtYWU3Yi00YzFhLTliMjQtMzUyYTE5Mzk0NWQxIiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
 
 ---
 
