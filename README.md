@@ -185,6 +185,4 @@ The Flipkart E-Commerce Analytics Dashboard provides a comprehensive solution fo
 
 ---
 
-## 📌 Hashtags
-#Flipkart #EcommerceAnalytics #DataAnalytics #BusinessIntelligence #PowerBI #DashboardDesign #SalesAnalysis #ProfitOptimization #CustomerInsights #DataVisualization #ProductManagement #InventoryManagement #PredictiveAnalytics
-# Flipkart-Sales-Report
+
