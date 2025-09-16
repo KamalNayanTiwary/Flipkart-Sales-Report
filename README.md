@@ -26,8 +26,9 @@ You can view the **Flipkart Sales Report Dashboard**
 
 ---
 
-## 📈 Dashboard Overview
+# 📈 Dashboard Overview
 ### 1️⃣ Product Insights Dashboard
+![Product Insights Dashboard]()  
 The Product Insights Dashboard provides a **comprehensive analysis of Flipkart’s product portfolio**, tracking performance across categories, subcategories, and sales channels. It is designed to enable Flipkart’s **category managers and inventory planners** to make strategic decisions regarding stock allocation, promotions, and category expansion.
 
 **Key Metrics:**
@@ -64,6 +65,7 @@ The Product Insights Dashboard provides a **comprehensive analysis of Flipkart�
 ---
 
 ### 2️⃣ Profit Insights and Forecast Dashboard
+![Profit Insights and Forecast Dashboard]()  
 This dashboard delivers **deep financial insights**, tracking profitability over multiple years, measuring the impact of discounts, price changes, and enabling **future profit forecasting**.
 
 **Key Metrics:**
@@ -100,6 +102,7 @@ This dashboard delivers **deep financial insights**, tracking profitability over
 ---
 
 ### 3️⃣ Order Insights Dashboard
+![Order Insights Dashboard]()  
 This dashboard provides a **holistic view of customer orders, delivery performance, and demographics**, enabling Flipkart to enhance operational efficiency and customer satisfaction.
 
 **Key Metrics:**
@@ -134,7 +137,8 @@ This dashboard provides a **holistic view of customer orders, delivery performan
 
 ---
 
-### 4️⃣ Flipkart Main Dashboard
+### 4️⃣ Main Dashboard
+![Main Dashboard]()  
 The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
 
 **Filtering Capabilities:**
@@ -157,6 +161,7 @@ The Main Dashboard acts as a **centralized control center**, consolidating key m
 ---
 
 ### 5️⃣ Enhanced Product Insights Dashboard
+![Enhanced Product Insights Dashboard]()  
 The Enhanced Product Insights Dashboard provides **more granular insights**, allowing detailed analysis for **strategic decision-making and category management**.
 
 **Enhanced Metrics:**
