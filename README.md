@@ -436,7 +436,7 @@ data_path = "data"
 os.makedirs(data_path, exist_ok=True)
 
 # Download dataset (replace with actual dataset id)
-api.dataset_download_files("username/flipkart-dataset", path=data_path, unzip=True)
+api.dataset_download_files("username/flipkart-sales-dataset", path=data_path, unzip=True)
 
 print("✅ Dataset downloaded successfully into 'data/' folder")
 ```
