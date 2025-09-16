@@ -27,7 +27,7 @@ You can view the **Flipkart Sales Report Dashboard**
 ---
 
 ## 📈 Dashboard Overview
-###  1️⃣ Main Dashboard
+### 1️⃣ Main Dashboard
 ![Main Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Dashboard.png)  
 The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
 
@@ -48,8 +48,9 @@ The Main Dashboard acts as a **centralized control center**, consolidating key m
 - Provides a **comprehensive operational view** for decision-making  
 - Highlights **underperforming areas** for immediate interventions  
 
+---
 
-###  4️⃣Product Insights Dashboard
+### 2️⃣ Product Insights Dashboard
 ![Product Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Product%20Insights.png)  
 The Product Insights Dashboard provides a **comprehensive analysis of Flipkart’s product portfolio**, tracking performance across categories, subcategories, and sales channels. It is designed to enable Flipkart’s **category managers and inventory planners** to make strategic decisions regarding stock allocation, promotions, and category expansion.
 
@@ -86,7 +87,7 @@ The Product Insights Dashboard provides a **comprehensive analysis of Flipkart�
 
 ---
 
-### 2️⃣ Profit Insights and Forecast Dashboard
+### 3️⃣ Profit Insights and Forecast Dashboard
 ![Profit Insights and Forecast Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Profit%20Insights%20%26%20Forecast.png)  
 This dashboard delivers **deep financial insights**, tracking profitability over multiple years, measuring the impact of discounts, price changes, and enabling **future profit forecasting**.
 
@@ -123,7 +124,7 @@ This dashboard delivers **deep financial insights**, tracking profitability over
 
 ---
 
-### 3️⃣ Order Insights Dashboard
+### 4️⃣ Order Insights Dashboard
 ![Order Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Order-Insight.png)  
 This dashboard provides a **holistic view of customer orders, delivery performance, and demographics**, enabling Flipkart to enhance operational efficiency and customer satisfaction.
 
@@ -156,9 +157,6 @@ This dashboard provides a **holistic view of customer orders, delivery performan
 - Improves **delivery efficiency and operational planning**  
 - Reduces **return rates and associated costs**  
 - Enables **data-driven marketing** for peak shopping periods  
-
----
-
 
 ---
 
