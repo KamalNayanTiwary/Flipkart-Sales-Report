@@ -27,7 +27,29 @@ You can view the **Flipkart Sales Report Dashboard**
 ---
 
 ## 📈 Dashboard Overview
-### 1️⃣ Product Insights Dashboard
+###  1️⃣ Main Dashboard
+![Main Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Dashboard.png)  
+The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
+
+**Filtering Capabilities:**
+- Year filter (all historical data)  
+- Category filters: Orders, Products, Customers, Forecast, Revenue, Profit, Trading  
+
+**Key Sections & Insights:**
+- **Average Customer Rating:** 2.73/5 (indicates areas to enhance customer experience)  
+- **Revenue Analysis:** Year-wise and zone-wise, identifying regional opportunities  
+- **Category Analysis:** Dual-category comparison helps understand **relative performance across multiple segments**  
+- **Profit Analysis:** Multi-year tracking shows **profit trends and incremental growth opportunities**  
+- **Trading Performance:** Tracks sales performance, seasonal patterns, and overall growth  
+
+**💡 Business Value:**
+- Consolidates **key KPIs for executive-level decisions**  
+- Enables **cross-dimensional analysis via interactive filters**  
+- Provides a **comprehensive operational view** for decision-making  
+- Highlights **underperforming areas** for immediate interventions  
+
+
+###  4️⃣Product Insights Dashboard
 ![Product Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Product%20Insights.png)  
 The Product Insights Dashboard provides a **comprehensive analysis of Flipkart’s product portfolio**, tracking performance across categories, subcategories, and sales channels. It is designed to enable Flipkart’s **category managers and inventory planners** to make strategic decisions regarding stock allocation, promotions, and category expansion.
 
@@ -137,26 +159,6 @@ This dashboard provides a **holistic view of customer orders, delivery performan
 
 ---
 
-### 4️⃣ Main Dashboard
-![Main Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Dashboard.png)  
-The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
-
-**Filtering Capabilities:**
-- Year filter (all historical data)  
-- Category filters: Orders, Products, Customers, Forecast, Revenue, Profit, Trading  
-
-**Key Sections & Insights:**
-- **Average Customer Rating:** 2.73/5 (indicates areas to enhance customer experience)  
-- **Revenue Analysis:** Year-wise and zone-wise, identifying regional opportunities  
-- **Category Analysis:** Dual-category comparison helps understand **relative performance across multiple segments**  
-- **Profit Analysis:** Multi-year tracking shows **profit trends and incremental growth opportunities**  
-- **Trading Performance:** Tracks sales performance, seasonal patterns, and overall growth  
-
-**💡 Business Value:**
-- Consolidates **key KPIs for executive-level decisions**  
-- Enables **cross-dimensional analysis via interactive filters**  
-- Provides a **comprehensive operational view** for decision-making  
-- Highlights **underperforming areas** for immediate interventions  
 
 ---
 
