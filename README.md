@@ -28,7 +28,7 @@ You can view the **Flipkart Sales Report Dashboard**
 
 ## 📈 Dashboard Overview
 ### 1️⃣ Product Insights Dashboard
-![Product Insights Dashboard]()  
+![Product Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Product%20Insights.png)  
 The Product Insights Dashboard provides a **comprehensive analysis of Flipkart’s product portfolio**, tracking performance across categories, subcategories, and sales channels. It is designed to enable Flipkart’s **category managers and inventory planners** to make strategic decisions regarding stock allocation, promotions, and category expansion.
 
 **Key Metrics:**
@@ -65,7 +65,7 @@ The Product Insights Dashboard provides a **comprehensive analysis of Flipkart�
 ---
 
 ### 2️⃣ Profit Insights and Forecast Dashboard
-![Profit Insights and Forecast Dashboard]()  
+![Profit Insights and Forecast Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Profit%20Insights%20%26%20Forecast.png)  
 This dashboard delivers **deep financial insights**, tracking profitability over multiple years, measuring the impact of discounts, price changes, and enabling **future profit forecasting**.
 
 **Key Metrics:**
@@ -138,7 +138,7 @@ This dashboard provides a **holistic view of customer orders, delivery performan
 ---
 
 ### 4️⃣ Main Dashboard
-![Main Dashboard]()  
+![Main Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Dashboard.png)  
 The Main Dashboard acts as a **centralized control center**, consolidating key metrics across products, revenue, profit, trading, and customers.
 
 **Filtering Capabilities:**
@@ -160,8 +160,8 @@ The Main Dashboard acts as a **centralized control center**, consolidating key m
 
 ---
 
-### 5️⃣ Enhanced Product Insights Dashboard
-![Enhanced Product Insights Dashboard]()  
+### 5️⃣ Customer Insights Dashboard
+![Customer Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Customer%20Insights.png)  
 The Enhanced Product Insights Dashboard provides **more granular insights**, allowing detailed analysis for **strategic decision-making and category management**.
 
 **Enhanced Metrics:**
