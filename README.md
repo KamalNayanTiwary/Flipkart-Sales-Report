@@ -425,4 +425,14 @@ The Flipkart E-Commerce Analytics Dashboard provides a comprehensive solution fo
 
 ---
 
+## 👨‍💻 Author  
+
+**Kamal Nayan Tiwary**  
+**Data Analyst**
+
+📧 **kamalnayantiwary73@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+
+---
+
 
