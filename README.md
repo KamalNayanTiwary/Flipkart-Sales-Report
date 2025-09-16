@@ -102,7 +102,7 @@ This dashboard delivers **deep financial insights**, tracking profitability over
 ---
 
 ### 3️⃣ Order Insights Dashboard
-![Order Insights Dashboard]()  
+![Order Insights Dashboard](https://github.com/KamalNayanTiwary/Flipkart-Sales-Report/blob/main/Dashboard%20Images/Order-Insight.png)  
 This dashboard provides a **holistic view of customer orders, delivery performance, and demographics**, enabling Flipkart to enhance operational efficiency and customer satisfaction.
 
 **Key Metrics:**
