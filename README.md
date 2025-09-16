@@ -422,23 +422,50 @@ This integration provided:
 - **Scalability:** Easy to extend for multiple datasets  
 ```
 # data_fetch.py
-# Script to fetch Flipkart dataset from Kaggle and save locally
+"""
+Script to fetch dataset from Kaggle and store locally for Power BI integration.
+Author: Kamal Nayan Tiwary
+"""
 
 import os
+import sys
+import logging
 from kaggle.api.kaggle_api_extended import KaggleApi
 
-# Authenticate with Kaggle
-api = KaggleApi()
-api.authenticate()
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
-# Create local data folder
-data_path = "data"
-os.makedirs(data_path, exist_ok=True)
+def fetch_dataset(dataset: str, save_path: str = "data") -> None:
+    """
+    Download dataset from Kaggle and save locally.
+    
+    Args:
+        dataset (str): Dataset identifier in format 'username/dataset-name'
+        save_path (str): Local directory to save dataset
+    """
+    try:
+        logging.info("Authenticating Kaggle API...")
+        api = KaggleApi()
+        api.authenticate()
 
-# Download dataset (replace with actual dataset id)
-api.dataset_download_files("username/flipkart-sales-dataset", path=data_path, unzip=True)
+        logging.info(f"Creating folder at '{save_path}' (if not exists)...")
+        os.makedirs(save_path, exist_ok=True)
 
-print("✅ Dataset downloaded successfully into 'data/' folder")
+        logging.info(f"Downloading dataset: {dataset}")
+        api.dataset_download_files(dataset, path=save_path, unzip=True)
+
+        logging.info(f"✅ Dataset downloaded successfully into '{save_path}/'")
+
+    except Exception as e:
+        logging.error(f"❌ Failed to download dataset: {e}")
+        sys.exit(1)
+
+if __name__ == "__main__":
+    DATASET_NAME = "username/flipkart-sales-dataset"
+    fetch_dataset(DATASET_NAME)
 ```
 ---
 
